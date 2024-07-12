@@ -1,5 +1,5 @@
 # portfolio
-<hr />
+
 ## Introduction
 
 This repository showcases a practice portfolio website built with a focus on modern development practices. It utilizes the following technologies:
